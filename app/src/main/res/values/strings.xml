@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">StockWatch</string>
+    <string name="StockSymbol">SYMBOL</string>
+    <string name="StockName">Stock Name</string>
+    <string name="StockPrice">Price</string>
+    <string name="StockChange">Change</string>
+    <string name="StockContentImage">^</string>
+    <string name="HeaderText">Stock Selection</string>
+    <string name="ContentText">Please enter a Stock Symbol</string>
+</resources>
